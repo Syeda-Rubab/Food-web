@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           <Image src="/logo.png" width={50} height={50} alt="logo" className="relative left-16 top-4"/>
           
-          <p className="relative md:flex text-[25px] right-96 top-5 font-light">Syeda's</p>
+          <p className="relative md:flex text-[25px] right-96 top-5 font-light">Syeda</p>
           
           <ul className="relative md:flex hidden gap-8 items-center font-semibold text-[14px] right-20 top-6">
             <li className="hover:underline hover:decoration-green-700">Home</li>
